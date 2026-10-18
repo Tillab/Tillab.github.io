@@ -1,7 +1,7 @@
 # Tillab.github.io
 Mon portfolio professionnel
 
-## Quelques-uns de mes projets
+## Projets sélectionnés
 #### Détectez des faux billets avec Machine Learning
 - Description
 - Lien

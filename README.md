@@ -4,6 +4,7 @@ Mon portfolio professionnel
 ## Projets sélectionnés
 #### Détectez des faux billets avec Machine Learning
 
+<img src = docs/assets/Photo_profile_Haraldsoon_Matilda.png height = 300 >
 ![](docs/assets/Photo_profile_Haraldsoon_Matilda.png)
 
 ##### Contexte et démarche

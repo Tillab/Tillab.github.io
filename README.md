@@ -8,6 +8,7 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
 <img src="P12_ML_confusion_matrix.png" alt="P12_ML_Confusion_Matrix.png">
+
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
@@ -18,7 +19,7 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistance_de_especes)
+[read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistence_de_especes)
 
 
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI
@@ -42,7 +43,7 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
 
 <img src=docs/assets/P11_etude_de_marche_multistat>
 
-[read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
+[read more in GitHub repository](https://github.com/Tillab/P11_etude_de_marche_multistat)
 
 
 ### P7 Visualiser dynamiquement l’avancement des projets avec Power BI — Power BI
@@ -77,12 +78,12 @@ Dans ce projet, j’ai créé une base de données destinée à centraliser les 
 [read more in GitHub repository](https://github.com/Tillab/P5_creer_interroger_base_de_donnees_SQL)
 
 
-### Article-work11 Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
+### Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
 Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatiques de 16 lacs expérimentaux afin d’étudier les effets bottom-up et top-down sur la structure et le fonctionnement des réseaux trophiques. J’ai utilisé des données d’abondance, de biomasse et de taille des espèces de phytoplancton, de zooplancton et de poissons, collectées à cinq dates au cours de trois années.
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/Modelisation_les_reseaux_trophiques_aquatiques)
+[read more in GitHub repository](https://github.com/Tillab/Modeliser_les_reseaux_trophiques_aquatiques)
 
 
 ### P13 Optimiser la gestion des données d’une boutique en ligne — Python
@@ -90,7 +91,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/P13_ameliorer_un_projet_analyse_avec_IA)
+[read more in GitHub repository](https://github.com/Tillab/P13_ameliorer_projet_data_avec_IA)
 
 
 

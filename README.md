@@ -19,7 +19,7 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistence_de_especes)
+[read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistence_de_especes )
 
 
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI

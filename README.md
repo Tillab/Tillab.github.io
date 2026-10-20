@@ -9,9 +9,6 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-pay attention to the writing of image extensions, because on github pages Images.png is different from images.png 
-if in your code you write src on image like this src="/images/images.png" just remove / at the beginning of the section, and it will solve your problem.
-
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
 
 #### Project 2

@@ -9,6 +9,8 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
+<img src="P12_ML_confusion_matrix.png" alt="P12_ML_Confusion_Matrix.png">
+
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
 
 

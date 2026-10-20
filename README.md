@@ -12,12 +12,12 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
 
 
-
-
-
 #### Project 2
 - Description
 - Lien
+
+
+<img src="docs/assets/ecostab.png" alt="EcoStab">
 
 #### Project 3
 - Description

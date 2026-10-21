@@ -7,9 +7,11 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 
 ![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
-<img src=docs/assets/P12_ML_confusion_matrix.png>
-
-<img src=docs/assets/P12_ML_confusion_matrix.png>
+<p align="center">
+  <img src="./docs/assets/P12_ML_confusion_matrix.png"
+       alt="Confusion matrix for the machine learning model"
+       width="300">
+</p>
 
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
 
@@ -19,7 +21,7 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 
 <img src=docs/assets/ecostab.png>
 
-[read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistence_de_especes )
+![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI
@@ -27,7 +29,7 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/P10_acces_eau_potable_Power_BI)
+![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 
 ### P8 Étudier l’évolution du profil sociodémographique des étudiants Data d’OpenClassrooms — dbt et Snowflake
@@ -35,13 +37,13 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-[read more in GitHub repository](https://github.com/Tillab/P8_profiles_sociodemographic)
+![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 
 ### P11 Réaliser une étude de marché — Python
 Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
 
-<img src=docs/assets/P11_etude_de_marche_multistat>
+![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 [read more in GitHub repository](https://github.com/Tillab/P11_etude_de_marche_multistat)
 
@@ -49,7 +51,7 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
 ### P7 Visualiser dynamiquement l’avancement des projets avec Power BI — Power BI
 Pour une entreprise internationale fictive intervenant dans plusieurs pays et continents, j’ai développé un tableau de bord Power BI permettant de suivre l’avancement des projets. L’analyse s’appuie sur des données internes de suivi, notamment les durées prévues et réelles, les coûts et les livrables.
 
-<img src=docs/assets/P12_ML_confusion_matrix.png>
+![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 [read more in GitHub repository](https://github.com/Tillab/P7_visualizer_avancement_projets_Power_BI)
 

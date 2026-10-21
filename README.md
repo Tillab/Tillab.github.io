@@ -61,7 +61,7 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
 </p>
      
 
-
+##
 
 
 
@@ -74,10 +74,11 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 <p align="center">
  <img src="./docs/assets/article_coexistence_abstract.png"
      alt="Abstract image for coexistence article"
-     width="200">
+     width="250">
 </p>
 
 
+##
 
 
 
@@ -94,7 +95,7 @@ Pour une entreprise internationale fictive intervenant dans plusieurs pays et co
 </p>
 
 
-
+##
 
 
 
@@ -110,6 +111,7 @@ Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne
 </p>
 
 
+##
 
 
 
@@ -125,30 +127,7 @@ Les proliférations de cyanobactéries sont souvent considérées comme des impa
 </p>
 
 
-
-
-
-
-
-
-### P5 Créer et interroger une base de données immobilière avec SQL — Databricks
-Dans ce projet, j’ai créé une base de données destinée à centraliser les informations sur les transactions immobilières d’un réseau national d’agences. Les données regroupaient des transactions immobilières, des données de population de l’INSEE et des données publiques décrivant les régions françaises.
-
-[...read more in GitHub repository](https://github.com/Tillab/P5_creer_interroger_base_de_donnees_SQL)
-
-
-
-
-
-
-
-### Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
-Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatiques de 16 lacs expérimentaux afin d’étudier les effets bottom-up et top-down sur la structure et le fonctionnement des réseaux trophiques. J’ai utilisé des données d’abondance, de biomasse et de taille des espèces de phytoplancton, de zooplancton et de poissons, collectées à cinq dates au cours de trois années.
-
-[...read more in GitHub repository](https://github.com/Tillab/Modeliser_les_reseaux_trophiques_aquatiques)
-
-
-
+##
 
 
 
@@ -160,10 +139,29 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
 <p align="center">
  <img src="./docs/assets/P13_test_polar_pandas.png"
      alt="Barplot comparing time and memory usage Pandas vs Polars method"
-     width="200">
+     width="250">
 </p>
 
+##
 
-## Formations
 
-## Work history
+
+### P5 Créer et interroger une base de données immobilière avec SQL — Databricks
+Dans ce projet, j’ai créé une base de données destinée à centraliser les informations sur les transactions immobilières d’un réseau national d’agences. Les données regroupaient des transactions immobilières, des données de population de l’INSEE et des données publiques décrivant les régions françaises.
+
+[...read more in GitHub repository](https://github.com/Tillab/P5_creer_interroger_base_de_donnees_SQL)
+
+
+
+##
+
+
+
+
+### Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
+Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatiques de 16 lacs expérimentaux afin d’étudier les effets bottom-up et top-down sur la structure et le fonctionnement des réseaux trophiques. J’ai utilisé des données d’abondance, de biomasse et de taille des espèces de phytoplancton, de zooplancton et de poissons, collectées à cinq dates au cours de trois années.
+
+[...read more in GitHub repository](https://github.com/Tillab/Modeliser_les_reseaux_trophiques_aquatiques)
+
+
+##

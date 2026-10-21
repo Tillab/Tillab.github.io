@@ -61,7 +61,7 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
 </p>
      
 
-##
+---
 
 
 
@@ -78,7 +78,7 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 </p>
 
 
-##
+---
 
 
 
@@ -95,7 +95,7 @@ Pour une entreprise internationale fictive intervenant dans plusieurs pays et co
 </p>
 
 
-##
+---
 
 
 
@@ -111,7 +111,7 @@ Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne
 </p>
 
 
-##
+---
 
 
 
@@ -127,7 +127,7 @@ Les proliférations de cyanobactéries sont souvent considérées comme des impa
 </p>
 
 
-##
+---
 
 
 
@@ -142,7 +142,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
      width="250">
 </p>
 
-##
+---
 
 
 
@@ -153,7 +153,7 @@ Dans ce projet, j’ai créé une base de données destinée à centraliser les 
 
 
 
-##
+---
 
 
 
@@ -164,4 +164,4 @@ Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatique
 [...read more in GitHub repository](https://github.com/Tillab/Modeliser_les_reseaux_trophiques_aquatiques)
 
 
-##
+---

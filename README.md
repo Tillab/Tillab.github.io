@@ -1,7 +1,7 @@
 # Tillab.github.io
 #### Mon portfolio professionnel
 
-## Projets sélectionnés
+## Mes projets sélectionnés
 ### P11 Réaliser une étude de marché — Python
 Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
 

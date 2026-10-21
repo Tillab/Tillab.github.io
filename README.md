@@ -2,35 +2,21 @@
 #### Mon portfolio professionnel
 
 ## Projets sélectionnés
-### Détectez des faux billets avec Machine Learning - python
-L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisation fictive) cherche à améliorer l’identification des faux billets. À partir d’un jeu de données de 1 500 billets scannés, dont l’authenticité était connue, j’ai entraîné et évalué plusieurs algorithmes de Machine Learning afin d’identifier l’approche la plus adaptée à cette tâche.
+### P11 Réaliser une étude de marché — Python
+Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
 
-[...read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
-
-<p align="center">
- <img src="./docs/assets/P12_ML_confusion_matrix.png"
-     alt="Confusion matrix for the machine learning model"
-     width="300">
-</p>
-
-
-
-
-
-### Article Modéliser théoriquement la coexistence des espèces — R
-
-Comprendre comment différentes espèces peuvent coexister dans la nature est une question centrale en écologie depuis plusieurs décennies. Dans ce projet, j’ai exploré une explication théorique de la coexistence à l’aide d’un modèle classique de Lotka-Volterra représentant un réseau trophique à trois niveaux. J’ai simulé la dynamique des prédateurs et des proies sur 500 générations avec des équations différentielles ordinaires sous R, puis analysé les communautés obtenues.
-
-[...read more in GitHub repository](Modeliser_theoriquement_la_coexistence_de_especes)
+[...read more in GitHub repository](https://github.com/Tillab/P11_etude_de_marche_multistat)
 
 <p align="center">
- <img src="./docs/assets/article_coexistence_abstract.png"
-     alt="Abstract image for coexistence article"
-     width="300">
+ <img src="./docs/assets/P11_multistat_map_clusters.png"
+     alt="PCA and clustering results on map "
+     width="400">
 </p>
 
-
-
+##
+##
+##
+##
 
 
 
@@ -42,6 +28,21 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
 <p align="center">
  <img src="./docs/assets/P10_eau_Continental.png"
      alt="Power BI view"
+     width="300">
+</p>
+
+
+
+
+
+### Détectez des faux billets avec Machine Learning - python
+L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisation fictive) cherche à améliorer l’identification des faux billets. À partir d’un jeu de données de 1 500 billets scannés, dont l’authenticité était connue, j’ai entraîné et évalué plusieurs algorithmes de Machine Learning afin d’identifier l’approche la plus adaptée à cette tâche.
+
+[...read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
+
+<p align="center">
+ <img src="./docs/assets/P12_ML_confusion_matrix.png"
+     alt="Confusion matrix for the machine learning model"
      width="300">
 </p>
 
@@ -66,15 +67,16 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
 
 
 
-### P11 Réaliser une étude de marché — Python
-Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
+### Article Modéliser théoriquement la coexistence des espèces — R
 
-[...read more in GitHub repository](https://github.com/Tillab/P11_etude_de_marche_multistat)
+Comprendre comment différentes espèces peuvent coexister dans la nature est une question centrale en écologie depuis plusieurs décennies. Dans ce projet, j’ai exploré une explication théorique de la coexistence à l’aide d’un modèle classique de Lotka-Volterra représentant un réseau trophique à trois niveaux. J’ai simulé la dynamique des prédateurs et des proies sur 500 générations avec des équations différentielles ordinaires sous R, puis analysé les communautés obtenues.
+
+[...read more in GitHub repository](Modeliser_theoriquement_la_coexistence_de_especes)
 
 <p align="center">
- <img src="./docs/assets/P11_multistat_map_clusters.png"
-     alt="PCA and clustering results on map "
-     width="300">
+ <img src="./docs/assets/article_coexistence_abstract.png"
+     alt="Abstract image for coexistence article"
+     width="200">
 </p>
 
 
@@ -98,6 +100,21 @@ Pour une entreprise internationale fictive intervenant dans plusieurs pays et co
 
 
 
+### P9 Analyser les ventes d’une librairie en ligne — Python
+Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne afin de mieux comprendre les comportements d’achat de ses clients. J’ai travaillé à partir de l’historique des ventes et d’informations sur les produits et les clients. Après le nettoyage des données et la sélection d’indicateurs pertinents, j’ai utilisé la visualisation et les statistiques descriptives pour étudier l’évolution des ventes et les profils des clients. J’ai également appliqué des méthodes de statistique inférentielle pour examiner les hypothèses commerciales de l’entreprise.
+
+[...read more in GitHub repository](https://github.com/Tillab/P9_analyse_des_ventes)
+
+<p align="center">
+ <img src="./docs/assets/P9_libraire_timeplot.png"
+     alt="Timeplot CA"
+     width="300">
+</p>
+
+
+
+
+
 ### Modélisation du réseau trophique lors d’une prolifération de cyanobactéries - R
 Les proliférations de cyanobactéries sont souvent considérées comme des impasses trophiques, car ces organismes sont peu consommés par les autres organismes aquatiques. Dans le cadre de ce projet interdisciplinaire, j’étais responsable de la modélisation de la dynamique du réseau trophique d’un écosystème aquatique au cours d’une prolifération de cyanobactéries de deux mois.
 
@@ -109,21 +126,6 @@ Les proliférations de cyanobactéries sont souvent considérées comme des impa
      width="300">
 </p>
 
-
-
-
-
-
-### P9 Analyser les ventes d’une librairie en ligne — Python
-Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne afin de mieux comprendre les comportements d’achat de ses clients. J’ai travaillé à partir de l’historique des ventes et d’informations sur les produits et les clients. Après le nettoyage des données et la sélection d’indicateurs pertinents, j’ai utilisé la visualisation et les statistiques descriptives pour étudier l’évolution des ventes et les profils des clients. J’ai également appliqué des méthodes de statistique inférentielle pour examiner les hypothèses commerciales de l’entreprise.
-
-[...read more in GitHub repository](https://github.com/Tillab/P9_analyse_des_ventes)
-
-<p align="center">
- <img src="./docs/assets/P9_libraire_timeplot.png"
-     alt="Timeplot CA"
-     width="300">
-</p>
 
 
 
@@ -160,7 +162,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
 <p align="center">
  <img src="./docs/assets/P13_test_polar_pandas.png"
      alt="Barplot comparing time and memory usage Pandas vs Polars method"
-     width="300">
+     width="200">
 </p>
 
 

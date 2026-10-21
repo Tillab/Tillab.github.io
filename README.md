@@ -63,6 +63,9 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
      
 
 
+
+
+
 ### P11 Réaliser une étude de marché — Python
 Comment une entreprise en croissance peut-elle identifier les pays à privilégier pour son développement à l’international ? Dans ce projet, j’ai utilisé des méthodes statistiques multivariées — analyse en composantes principales (ACP) et classification non supervisée — pour identifier des groupes de pays présentant des caractéristiques potentiellement favorables au développement du marché d’un produit de poulet à vocation écologique.
 
@@ -73,6 +76,9 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
      alt="PCA and clustering results on map "
      width="300">
 </p>
+
+
+
 
 
 
@@ -89,6 +95,9 @@ Pour une entreprise internationale fictive intervenant dans plusieurs pays et co
 
 
 
+
+
+
 ### Modélisation du réseau trophique lors d’une prolifération de cyanobactéries - R
 Les proliférations de cyanobactéries sont souvent considérées comme des impasses trophiques, car ces organismes sont peu consommés par les autres organismes aquatiques. Dans le cadre de ce projet interdisciplinaire, j’étais responsable de la modélisation de la dynamique du réseau trophique d’un écosystème aquatique au cours d’une prolifération de cyanobactéries de deux mois.
 
@@ -99,6 +108,9 @@ Les proliférations de cyanobactéries sont souvent considérées comme des impa
      alt="Biomasses trophic foodweb article"
      width="300">
 </p>
+
+
+
 
 
 
@@ -115,16 +127,19 @@ Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne
 
 
 
+
+
+
+
 ### P5 Créer et interroger une base de données immobilière avec SQL — Databricks
 Dans ce projet, j’ai créé une base de données destinée à centraliser les informations sur les transactions immobilières d’un réseau national d’agences. Les données regroupaient des transactions immobilières, des données de population de l’INSEE et des données publiques décrivant les régions françaises.
 
 [...read more in GitHub repository](https://github.com/Tillab/P5_creer_interroger_base_de_donnees_SQL)
 
-<p align="center">
- <img src="./docs/assets/P5_SQL_databricks_screenshot.png"
-     alt="Screenshot from Databricks"
-     width="300">
-</p>
+
+
+
+
 
 
 ### Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
@@ -132,11 +147,9 @@ Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatique
 
 [...read more in GitHub repository](https://github.com/Tillab/Modeliser_les_reseaux_trophiques_aquatiques)
 
-<p align="center">
- <img src="./docs/assets/ecostab.png"
-     alt="Screenshot of ecostab repositorie"
-     width="300">
-</p>
+
+
+
 
 
 ### P13 Optimiser la gestion des données d’une boutique en ligne — Python

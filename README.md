@@ -27,7 +27,7 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
      width="300">
 </p>
 
-##
+---
 
 
 
@@ -43,7 +43,7 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
      width="300">
 </p>
 
-##
+---
 
 
 

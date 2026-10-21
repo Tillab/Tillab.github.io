@@ -14,10 +14,6 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
 </p>
 
 ##
-##
-##
-##
-
 
 
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI
@@ -31,6 +27,7 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
      width="300">
 </p>
 
+##
 
 
 
@@ -46,6 +43,7 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
      width="300">
 </p>
 
+##
 
 
 

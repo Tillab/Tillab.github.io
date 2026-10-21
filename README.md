@@ -14,6 +14,9 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 </p>
 
 
+
+
+
 ### Article Modéliser théoriquement la coexistence des espèces — R
 
 Comprendre comment différentes espèces peuvent coexister dans la nature est une question centrale en écologie depuis plusieurs décennies. Dans ce projet, j’ai exploré une explication théorique de la coexistence à l’aide d’un modèle classique de Lotka-Volterra représentant un réseau trophique à trois niveaux. J’ai simulé la dynamique des prédateurs et des proies sur 500 générations avec des équations différentielles ordinaires sous R, puis analysé les communautés obtenues.
@@ -28,6 +31,9 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
 
 
 
+
+
+
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI
 L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souhaite améliorer l’accès à l’eau potable dans le monde. J’ai développé un tableau de bord interactif sous Power BI afin d’identifier les pays confrontés aux difficultés les plus importantes et d’éclairer la priorisation d’éventuels investissements futurs.
 
@@ -38,6 +44,9 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
      alt="Power BI view"
      width="300">
 </p>
+
+
+
 
 
 ### P8 Étudier l’évolution du profil sociodémographique des étudiants Data d’OpenClassrooms — dbt et Snowflake

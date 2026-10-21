@@ -11,7 +11,7 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
  <img src="./docs/assets/P12_ML_confusion_matrix.png"
      alt="Confusion matrix for the machine learning model"
      width="300">
-
+</p>
 
 
 ### Article Modéliser théoriquement la coexistence des espèces — R
@@ -24,7 +24,7 @@ Comprendre comment différentes espèces peuvent coexister dans la nature est un
  <img src="./docs/assets/article_coexistence_abstract.png"
      alt="Abstract image for coexistence article"
      width="300">
-
+</p>
 
 
 
@@ -37,7 +37,7 @@ L’organisation à but non lucratif fictive Drinking Water For All (DWFA) souha
  <img src="./docs/assets/P10_eau_Continental.png"
      alt="Power BI view"
      width="300">
-     
+</p>
 
 
 ### P8 Étudier l’évolution du profil sociodémographique des étudiants Data d’OpenClassrooms — dbt et Snowflake
@@ -50,7 +50,7 @@ La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre l
  <img src="./docs/assets/P8_sociodemographique_DAG.png"
      alt="DAG diagram DBT"
      width="300">
-
+</p>
      
 
 
@@ -63,7 +63,7 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
  <img src="./docs/assets/P11_multistat_map_clusters.png"
      alt="PCA and clustering results on map "
      width="300">
-
+</p>
 
 
 
@@ -76,7 +76,7 @@ Pour une entreprise internationale fictive intervenant dans plusieurs pays et co
  <img src="./docs/assets/P7_PowerBI_main.png"
      alt="Power BI main view"
      width="300">
-
+</p>
 
 
 
@@ -89,7 +89,7 @@ Les proliférations de cyanobactéries sont souvent considérées comme des impa
  <img src="./docs/assets/article_cyano_data_text.png"
      alt="Biomasses trophic foodweb article"
      width="300">
-
+</p>
 
 
 
@@ -102,7 +102,7 @@ Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne
  <img src="./docs/assets/P9_libraire_timeplot.png"
      alt="Timeplot CA"
      width="300">
-
+</p>
 
 
 
@@ -115,7 +115,7 @@ Dans ce projet, j’ai créé une base de données destinée à centraliser les 
  <img src="./docs/assets/P5_SQL_databricks_screenshot.png"
      alt="Screenshot from Databricks"
      width="300">
-
+</p>
 
 
 ### Modéliser les réseaux trophiques aquatiques de 16 lacs expérimentaux — R
@@ -127,7 +127,7 @@ Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatique
  <img src="./docs/assets/ecostab.png"
      alt="Screenshot of ecostab repositorie"
      width="300">
-
+</p>
 
 
 ### P13 Optimiser la gestion des données d’une boutique en ligne — Python
@@ -139,7 +139,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
  <img src="./docs/assets/P13_test_polar_pandas.png"
      alt="Barplot comparing time and memory usage Pandas vs Polars method"
      width="300">
-
+</p>
 
 
 ## Formations

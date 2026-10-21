@@ -13,7 +13,7 @@ Comment une entreprise en croissance peut-elle identifier les pays à privilégi
      width="400">
 </p>
 
-##
+---
 
 
 ### P10 Analyser l’accès à l’eau potable avec Power BI — Power BI

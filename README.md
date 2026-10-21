@@ -9,8 +9,6 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
-<img src="P12_ML_confusion_matrix.png" alt="P12_ML_Confusion_Matrix.png">
-
 <img src=docs/assets/P12_ML_confusion_matrix.png>
 
 [read more in GitHub repository](https://github.com/Tillab/P12_faix_billets_avec_ML)
@@ -19,7 +17,7 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 ### Article Modéliser théoriquement la coexistence des espèces — R
 Comprendre comment différentes espèces peuvent coexister dans la nature est une question centrale en écologie depuis plusieurs décennies. Dans ce projet, j’ai exploré une explication théorique de la coexistence à l’aide d’un modèle classique de Lotka-Volterra représentant un réseau trophique à trois niveaux. J’ai simulé la dynamique des prédateurs et des proies sur 500 générations avec des équations différentielles ordinaires sous R, puis analysé les communautés obtenues.
 
-<img src=docs/assets/P12_ML_confusion_matrix.png>
+<img src=docs/assets/ecostab.png>
 
 [read more in GitHub repository](https://github.com/Tillab/Modeliser_theoriquement_la_coexistence_de_especes )
 

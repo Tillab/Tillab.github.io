@@ -8,6 +8,17 @@ L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisatio
 ![Confusion matrix for the machine learning model](./docs/assets/P12_ML_confusion_matrix.png)
 
 <p align="center">
+ <img src="./docs/assets/P12_ML_confusion_matrix.png"
+     alt="Confusion matrix for the machine learning model"
+     width="300">
+
+
+<img src="./docs/assets/P12_ML_confusion_matrix.png"
+     alt="Confusion matrix for the machine learning model"
+     width="100%">
+
+     
+<p align="center">
   <img src="./docs/assets/P12_ML_confusion_matrix.png"
        alt="Confusion matrix for the machine learning model"
        width="300">

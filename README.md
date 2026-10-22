@@ -137,7 +137,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
 [...read more](https://github.com/Tillab/P13_ameliorer_projet_data_avec_IA)
 
 <p align="center">
- <img src="./docs/assets/P13_test_polar_pandas.png"
+ <img src="./docs/assets/P13_Figure_A2.jpg"
      alt="Barplot comparing time and memory usage Pandas vs Polars method"
      width="250">
 </p>
@@ -166,4 +166,4 @@ Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatique
 
 ---
 
-Consultez mon veille métier (inoreader)[https://www.inoreader.com/all_articles]
+Consultez mon veille métier [inoreader](https://www.inoreader.com/all_articles)

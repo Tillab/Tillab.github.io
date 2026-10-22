@@ -165,3 +165,5 @@ Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatique
 
 
 ---
+
+Consultez mon veille métier (inoreader)[https://www.inoreader.com/all_articles]

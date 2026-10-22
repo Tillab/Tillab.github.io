@@ -139,7 +139,7 @@ Les outils d’intelligence artificielle transforment les pratiques des analyste
 <p align="center">
  <img src="./docs/assets/P13_Figure_A2.jpg"
      alt="Barplot comparing time and memory usage Pandas vs Polars method"
-     width="250">
+     width="400">
 </p>
 
 ---
